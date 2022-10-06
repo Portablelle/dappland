@@ -29,7 +29,7 @@ export const categories = [
   { key: "nfts", name: "NFTs", icon: gallery, iconDark: galleryLight },
   { key: "social", name: "Social", icon: heart, iconDark: heartLight },
   { key: "oracles", name: "Oracles", icon: ball, iconDark: ballLight },
-  { key: "daos", name: "DAOs", icon: contacts, iconDark: contactsLight },
+  { key: "daos", name: "DAOsss", icon: contacts, iconDark: contactsLight },
   { key: "test", name: "Test", icon: contacts, iconDark: contactsLight },
 ]
 
